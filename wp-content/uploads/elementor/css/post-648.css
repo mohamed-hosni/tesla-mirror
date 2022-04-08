@@ -1,0 +1,8 @@
+.elementor-kit-648{--e-global-color-primary:#FFFFFF;--e-global-color-secondary:#171A20;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-color-b6263b9:#171A20C7;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;--e-global-typography-7a678d9-font-family:"Gotham light";--e-global-typography-7a678d9-font-size:14px;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1200px;}.elementor-widget:not(:last-child){margin-bottom:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'Gotham light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://tesla-tech.xyz/tesla-tech/wp-content/uploads/2022/01/GothamLight.woff') format('woff');
+}
+/* End Custom Fonts CSS */
